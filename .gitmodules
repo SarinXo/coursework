@@ -1,0 +1,6 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/SarinXo/eureka-server
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/SarinXo/api-gateway
