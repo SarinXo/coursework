@@ -2,4 +2,5 @@ rootProject.name = 'coursework'
 
 includeBuild 'api-gateway'
 includeBuild 'eureka-server'
+includeBuild 'auth-service'
 
