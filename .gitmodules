@@ -5,5 +5,5 @@
 	path = api-gateway
 	url = https://github.com/SarinXo/api-gateway
 [submodule "auth-service"]
-    path = auth-service
-    url = https://github.com/SarinXo/auth-service
+	path = auth-service
+	url = https://github.com/SarinXo/auth-service
