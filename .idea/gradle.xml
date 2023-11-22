@@ -22,6 +22,11 @@
                   <project path="$PROJECT_DIR$/eureka-server" />
                 </projects>
               </build>
+              <build path="$PROJECT_DIR$/user-service" name="user-service">
+                <projects>
+                  <project path="$PROJECT_DIR$/user-service" />
+                </projects>
+              </build>
             </builds>
           </compositeBuild>
         </compositeConfiguration>
@@ -33,6 +38,7 @@
             <option value="$PROJECT_DIR$/api-gateway" />
             <option value="$PROJECT_DIR$/auth-service" />
             <option value="$PROJECT_DIR$/eureka-server" />
+            <option value="$PROJECT_DIR$/user-service" />
           </set>
         </option>
       </GradleProjectSettings>
