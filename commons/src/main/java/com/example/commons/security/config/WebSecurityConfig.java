@@ -1,4 +1,4 @@
-package com.example.commons.security;
+package com.example.commons.security.config;
 
 
 import com.example.commons.security.filter.JwtAuthFilter;
