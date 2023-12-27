@@ -10,3 +10,6 @@
 [submodule "config-service"]
 	path = config-service
 	url = https://github.com/SarinXo/config-service
+[submodule "admin-service"]
+	path = admin-service
+	url = https://github.com/SarinXo/admin-service
